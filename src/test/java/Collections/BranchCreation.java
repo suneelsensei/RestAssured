@@ -18,7 +18,6 @@ public class BranchCreation {
 		given().contentType(ContentType.JSON).headers("X-Auth-Token", Authority_token.X_auth())
 				.body(new File("./Collections/branchcreation.json")).when().post(Authority_token.URL + "/api/branches")
 				.then().log().body();
-		//Remove this
-		System.out.println("new changes");
+		
 	}
 }
