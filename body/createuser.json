@@ -1,0 +1,40 @@
+{
+  "userDTO": {
+    
+    "version": 0,
+    "login": "test1",
+    "passwordHash": "$2a$10$DW7zoBSGprX1lapywpOGN.a4LVNqllDeSM9QQAW7602bD.08lJmdC",
+    "firstName": "test",
+    "lastName": "1",
+    "emailAddress": "suneelkkk@yopmail.com",
+    "imageUrl": null,
+    "activated": true,
+    "langKey": null,
+    "role": "ADMIN",
+    "branchCode": "HO",
+    "branchSetCode": "HO",
+    "activationKey": null,
+    "userType": "EMPLOYEE",
+    "resetKey": null,
+    "orgStrUid": null,
+    "authorities": null,
+    "resetPassword": null,
+    "backendUser": false
+  },
+  "employeeDTO": {
+  
+    "version": 0,
+    "name": "test  ",
+    "address": "blr",
+    "city": "JLG",
+    "state": "KA",
+    "pinCode": "745866",
+    "contactNumber": "5636164651",
+    "emailId": "suneelkkk@yopmail.com",
+    "department": "ro",
+    "designation": "ro",
+    
+    "userName": null
+  },
+  "agentDTO": null
+}
